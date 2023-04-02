@@ -1,0 +1,11 @@
+# R stuff
+.Rhistory
+.Rproj.user
+
+# VSCode stuff
+.vscode
+.python-version
+
+# Data
+/data
+
